@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ProjekModul</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="txt_isi_data">Mohon isi data dibawah ini dengan benar</string>
+    <string name="txt_nama">Nama Pengguna</string>
+    <string name="hint_nama">Masukan nama lengkap</string>
+    <string name="hint_email">Email</string>
+    <string name="tittle_login">Login</string>
+    <string name="hint_password">Password</string>
+    <string name="txt_forgot_password">Forgot password?</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="tittle_welcome">Selamat Datang</string>
+    <string name="menu_kategori">Menu Kategori</string>
+    <string name="tittle_register">Register</string>
+    <string name="btn_have_account">Already Have Account</string>
+    <string name="txt_username">Username</string>
+    <string name="btn_logout">LOG OUT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
